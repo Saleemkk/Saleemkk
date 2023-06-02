@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaleemKhan
 - 👀 I’m interested in development and programming 
-- 🌱 I’m currently learning working as a freelance 
+- 🌱 I’m currently working as a freelance 
 - 💞️ I’m looking to collaborate on Unity / Django / Data Science Projects
 - 📫 How to reach me ... skype: saleemktk88, whatsapp: +923044084844
 
